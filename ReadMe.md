@@ -1,6 +1,7 @@
 # Learning Journey
 
 Java > JDBC > SQL > Hibernate > HQL > HTML > CSS > JS > SpringBoot / Spring Framework > JSON > Spark > Typescript > NodeJS > Angular > ExpressJS > ReactJS > Vite > Python
+
 Others: GSON, log4j, slf4j, Chromedriver, Selenium, Maven
 
 IDEs (Integrated Development Environments)
